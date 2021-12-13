@@ -1,65 +1,92 @@
-# Jekyll GitBook
+# Architect theme
 
-Make Jelly site have a GitBook look!
+This is a [Jekyll][1] theme that is an adaptation of [@jasonlong][2]'s [Architect theme][4] on [GitHub Pages][3].
 
-## Demo
+This is the raw HTML and styles that are used for the *Architect* theme on [GitHub Pages](https://pages.github.com/).
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+![](https://cl.ly/image/1x0Q3213330G/content)
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+# Getting Started
 
-## Why Jekyll with GitBook
+## Prerequisites
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
+To install this theme, jekyll is required to be installed on your system. Head over to the [docs](https://jekyllrb.com/docs/installation/) and install the four requirements (Ruby, RubyGems, Node.js and Python 2.7). If you're on a Mac system, it's likely the only package you'll need to install is Node.js
 
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+Once you've installed the requirements, run this command in your terminal:
 
-## How to Get Started
-
-This theme can be used just as other [Jekyll themes][1].
-
-[Fork][3] this repository and add your markdown posts to the `_posts` folder.
-
-### Deploy Locally with Jekyll Serve
-
-This theme can be ran locally using Ruby and Gemfiles.
-
-[Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) - GitHub
-
-## Full-text search
-
-The jekyll-gitbook theme support a "Search" page that enables visitors to search contents
-from the whole site. The search functionality is powered by [jekyll-tipue-search][5] can you
-can try it from:
-
-[https://sighingnow.github.io/jekyll-gitbook/search/?q=generated](https://sighingnow.github.io/jekyll-gitbook/search/?q=generated)
-
-## How to generate TOC
-
-The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
-The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
-configuration in `_config.yml`:
-
-```yaml
-toc:
-    enabled: true
+```
+$ sudo gem install jekyll
 ```
 
-## License
+You'll also need to install the bundler package:
 
-This work is open sourced under the Apache License, Version 2.0.
+```
+$ sudo gem install bundler
+```
 
-Copyright 2019 Tao He.
+## Downloading and Installing the theme
 
-[1]: https://pages.github.com
-[2]: https://pages.github.com/themes
-[3]: https://github.com/sighingnow/jekyll-gitbook/fork
-[4]: https://github.com/allejo/jekyll-toc
-[5]: https://github.com/jekylltools/jekyll-tipue-search
+Download the theme
+
+```
+https://github.com/pietromenna/jekyll-architect-theme/archive/master.zip
+```
+
+Unzip it and use it as a regular jekyll folder.
+
+```
+$ unzip jekyll-architect-theme-master.zip
+```
+
+Get inside the newly extracted folder
+
+```
+$ cd jekyll-architect-theme-master
+```
+
+Install the dependencies
+
+```
+$ bundle install
+```
+
+Use it!
+
+```
+$ jekyll serve
+```
+
+# Setup
+
+Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
+
+
+## baseurl
+
+`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: https://pietromenna.github.io/jekyll-architect-theme
+
+In the case above the baseurl should be set to "/jekyll-architect-theme".
+
+In the case the site sits in the root, you can leave `baseurl` as empty "".
+
+
+For more details read about [Jekyll][1] on its web page.
+
+# Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenna/jekyll-architect-theme.
+
+# Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+You theme is setup just like a normal Jelyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+# License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
+
+[1]: https://jekyllrb.com
+[2]: https://github.com/jasonlong
+[3]: http://pages.github.com/
+[4]: https://github.com/jasonlong/architect-theme
