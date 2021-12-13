@@ -1,8 +1,11 @@
-# A sample Gemfile
-source "https://rubygems.org"
-gemspec
+# frozen_string_literal: true
 
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'kramdown'
-gem 'pygments.rb'
+source "https://rubygems.org"
+
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+gem "jekyll"
+gem 'jekyll-feed'
+gem 'jemoji'
+gem 'webrick'
+
+# gem "rails"
