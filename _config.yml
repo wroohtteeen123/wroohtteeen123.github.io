@@ -2,7 +2,7 @@
 name:         项目或站点名称（建筑师主题）
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
-locale:       "cn"
+locale:       "zh_cn"
 
 # Gems
 gems:
