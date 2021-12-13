@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c427308c-7b2f-496b-aae4-ec64d253382e" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-12-13-A-Blog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jekyll-architect-theme.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jjc123-PBAS.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_CCO/lbo-bame.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_CCO/lbo-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_CCO/safari-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/doc1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/doc2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/doc3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/indexbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uupages/index-b.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uupages/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/window.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
