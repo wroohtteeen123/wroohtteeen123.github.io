@@ -4,12 +4,13 @@
 
 - ✋🏻 我是 wroohtteeen123 🍥 
 - 📮 如何联系我 jincheng0523@iCloud.com
+- 🏵 从前疯狂看百部番的二次螈（（（
 
 ## 最近在干什么事？
 
 - 💜 定时 💣 ，绝赞emo中～
-- 💙 虽然好难受，但感觉现在和以前比，变得十分的真实。
-- 💊 用药：["EstradiolValerate", "Spironolactone"] (怎么还没有CPA
+- 💙 虽然好难受，但感觉现在和以前比，变得十分的真实。 ~~？~~
+- 💊 用药：["EstradiolValerate", "CyproteroneAcetate"] ( ~~怎么还没有CPA~~ --> 有了！( 虽然还有别的就是了
 
 ## 在听什么歌？
 
