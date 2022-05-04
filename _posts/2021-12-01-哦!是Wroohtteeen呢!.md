@@ -12,15 +12,6 @@
 - 💙 虽然好难受，但感觉现在和以前比，变得十分的真实。 ~~？~~
 - 💊 用药：["EstradiolValerate", "CyproteroneAcetate"] ( ~~怎么还没有CPA~~ --> 有了！( 虽然还有别的就是了
 
-## 在听什么歌？
-
-- 🎵 The Wall                           💽
-- 🎵 Rubber Soul                        💽
-- 🎵 One Last Kiss                      💽
-- 🎵 Hotel California                   💽
-- 🎵 Wish You Were Here                 💽
-- 🎵 The Dark Side Of The Moon          💽
-- 🎵 The Velvet Underground And Nico    💽
 
 ## 在听什么歌？(
 
