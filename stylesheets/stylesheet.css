@@ -478,10 +478,13 @@ header h2 {
 }
 
 .inner {
-  background-color: lightblue;
   position: relative;
   width: 940px;
   margin: 0 auto;
+}
+
+tti {
+  background-color: lightblue;
 }
 
 #content-wrapper {
